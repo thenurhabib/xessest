@@ -1,7 +1,7 @@
 
 # Xessest
 
-A shell script for linux user. It can help you to change your MAC Address..
+A shell script for linux user. It can help you to change your MAC Address.
 This tool made for only educational purpse, please don't use it to harm anyone.
 
 ## Usage
@@ -26,7 +26,7 @@ This tool made for only educational purpse, please don't use it to harm anyone.
 
 
 ## 🚀 About Me
-I'm a programmer && linux sysadmin.
+I'm a Programmer && Linux System Administrator.
 
 
 ## Author
