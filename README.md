@@ -8,7 +8,7 @@ This tool made for only educational purpse, please don't use it to harm anyone.
 `apt-get update` <br>
 `apt-get upgrade` <br>
 `pkg install git` <br>
-`git clone https://github.com/nurhabib1/xessest` <br>
+`git clone https://github.com/thenurhabib/xessest` <br>
 `cd xessest` <br>
 `chmod +x xessest.sh` <br>
 `./xessest.sh` 
@@ -31,5 +31,5 @@ I'm a Programmer && Linux System Administrator.
 
 ## Author
 
-- [@Md. Nur habib](https://www.github.com/nurhabib1)
+- [@Md. Nur habib](https://www.github.com/thenurhabib)
 
